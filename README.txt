@@ -13,3 +13,6 @@ There a 5 sections in each in the following order, Decision trees, Nueral Networ
 Support Vector Machines, and k-Nearest Neighbors.
 
 5) Each section requires that the setup cells be run first and then the section code.
+
+6) the code can be found in the following location:
+https://github.com/DarshanLam/MyworkML
